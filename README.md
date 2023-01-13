@@ -11,7 +11,7 @@ Présentation de janvier 2023 au sein du LPC, pour l'équipe INDRA-FAZIA. Dans c
   * Objectifs  enjeux
   * Rappel des résultats finaux de stage
   * Brève bibliographie technique
-* Genesis , Redemptoris
+* $Genesis\ 0.8.3$, Redemptoris
   * Groupements des données
     * Visualisation des données
     * L'agglomération des données
